@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="Cá nhân"
+        android:icon="@drawable/people"
+        >
+
+    </item>
+    <item
+        android:title="Lịch sử"
+        android:icon="@drawable/documents"
+        >
+
+    </item>
+    <item
+        android:title="Thanh toán"
+        android:icon="@drawable/visa"
+        >
+
+    </item>
+
+    <item
+        android:title="Quà tặng"
+        android:icon="@drawable/gift"
+        >
+
+    </item>
+    <item
+        android:title="Communications"
+        >
+        <menu>
+            <item
+                android:title="Hỗ trợ"
+                >
+
+            </item>
+            <item
+                android:title="Đổi tài khoản"
+                >
+
+            </item>
+        </menu>
+    </item>
+
+</menu>
